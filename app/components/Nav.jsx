@@ -25,7 +25,7 @@ var Nav = React.createClass({
           <form onSubmit={this.onSearch}>
             <ul className="menu">
               <li className="menu-text">
-                Created by Jacob Lower
+                Created by <a href="https://google.com">Jacob Lower</a>
               </li>
             </ul>
           </form>
